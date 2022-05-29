@@ -25,12 +25,12 @@ _These sites will work no less than 3 years after the war and will be used solel
 - Use of posession outside of Ukraine is prohibited
 
 
-> **[MIL9.US](/alert/military)** - безкоштовна допомога **тільки** (без виключень) для Збройних Сил України  
+> **[MIL9.US](/alert/military)** - free help **exclusively** (no exceptions) for Military Forces of Ukraine  
 - Sell or posession and use by the person who is not is active duty of Military Forces of Ukraine is prohibited
 - Use of posession outside of Ukraine is prohibited
 
 
-> **[CIV9.US](/alert/civil)** - безкоштовна допомога **тільки** (з виключеннями) для цивільних людей та установ
+> **[CIV9.US](/alert/civil)** - free help **exclusively** (with exception) for for civilian people and organizations
 - Sell or distribution in exchange of any forms of compensation is prohibited
 - Use of posession outside of Ukraine is prohibited
 - Use by Military Forces of Ukraine is legal, but it is advised to contact us to help to understand issues with aid distribution.
@@ -59,6 +59,7 @@ All known to me codes with contact information are [here](/read/sources) and **S
 
 **If you want to add your own code to this [list](/read/sources) - send me email to [code@ua9.us](mailto:code@ua9.us)** with a code and contact information.
 
+⚠️ Even if you don't want to disclose your information, send me email, so I'll mark origin code as in use.
 
 ## Marking Type III - Serial number
 

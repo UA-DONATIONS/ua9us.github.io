@@ -6,56 +6,53 @@ order: 5
 
 🇺🇦 [Українська](/mark/read)  \|  🇺🇸 [English](/mark/read_en)  \|  🇦🇶 [Русский](/mark/read_ru)
 
-**Повне** маркування складається з 3-х елементів: типу обмеження, кода джерела та серійного номеру, наприклад
+**Full** marking have 3 elements: restriction type, code of origin and serial number, e.g.
 > MIL9.US  
 > SOT-A123  
 
-**[MIL9.US](/alert/military)** (або **[UA9.US](/alert/generic)** або **[CIV9.US](/alert/civil)**) - це тип обмеження.  
-**SOT** - це код джерела  
-**A123** - серійний номер
+**[MIL9.US](/alert/military)** (або **[UA9.US](/alert/generic)** або **[CIV9.US](/alert/civil)**) - restriction type.  
+**SOT** - code of origin  
+**A123** - serial number
 
-Маркування може бути **частковим**, наприклад
+Markings can be **partial**, for example
 > MIL9.US  
 > SOT  
 
-або навіть тільки
+or even just
 > MIL9.US
 
-_Зазвичай найкращий шлях зрозуміти як читати маркування, це прочитати [правила, як його наносити](/mark/mark), але ця сторінка містить усю потрібну інформацію._
+_As usually, the best way to understand how to read markings is to read [how to make markings](/mark/mark), but this page have all required information._
 
-## Тип обмежень
+## Restriction type
 
-> **[UA9.US](/alert/generic)** - безкоштовна допомога для цивільних та воєнних людей та установ
-- Забороняється продаж або розповсюдження за будь які інші форми компенсації
-- Забороняється володіння та використання за межами України
-
-> **[MIL9.US](/alert/military)** - безкоштовна допомога **тільки** (без виключень) для Збройних Сил України  
-- Забороняється продаж або володіння та використання особами, що не знаходяться на службі у лавах ЗСУ
-- Забороняється володіння та використання за межами України
+> **[UA9.US](/alert/generic)** - free help for civilian and military people and organizations
+- Sell or distribution in exchange of any forms of compensation is prohibited
+- Use of posession outside of Ukraine is prohibited
 
 
-> **[CIV9.US](/alert/civil)** - безкоштовна допомога **тільки** (з виключеннями) для цивільних людей та установ
-- Забороняється продаж або розповсюдження за будь які інші форми компенсації
-- Забороняється володіння та використання за межами України
-- Дозволяється використання Зборофними Силами України **на разі потреби**, але у такому разі ми просимо зв'язатися з нами, щоб допомогти нам зрозуміти проблеми у розподіленні допомоги
+> **[MIL9.US](/alert/military)** - free help **exclusively** (no exceptions) for Military Forces of Ukraine  
+- Sell or posession and use by the person who is not is active duty of Military Forces of Ukraine is prohibited
+- Use of posession outside of Ukraine is prohibited
 
-## Код джерела
 
-Виробник або волонтер може добавити інформацію про себе до цього сайту. А може й не добавити.
+> **[CIV9.US](/alert/civil)** - free help **exclusively** (with exception) for for civilian people and organizations
+- Sell or distribution in exchange of any forms of compensation is prohibited
+- Use of posession outside of Ukraine is prohibited
+- Use by Military Forces of Ukraine is legal, but it is advised to contact us to help to understand issues with aid distribution.
 
-На цьому сайті є список усіх **відомих мені** [кодів джерел](/read/sources) з контактною інформацією. Тобто зовсім не гарантується, що я знаю джерело походження, якщо його мені не надсилали.
+## Code of origin
 
-## Серійний номер
+Manufacturers or suppliers may add information about them to this site. Or may not.
 
-Серійний номер - це будь який ідентифікатор, який може бути доданий до коду джерела через дефіс. 
+Here is all **known to me** [codes of origin](/read/sources) with the contact information. So, there is no any guarantee that I know an origin, if it was not provided to me.
 
-Тільки той, хто наніс серійний номер (джерело) знає його значення та має відповідні записи.
+## Serial number
 
-Якщо серійний номер та його значення було надіслано до нас, цей номер може бути знайдений на [сторінці серійних номерів](/read/serials) разом з додатковою інформацією. У іншому разі, спробуйте запитати [джерело](/read/sources) походження (звісно, якщо воно теж відомо).
+Serial number - it is any identifier which is added to a code of origin after hyphen. 
 
-## Трафарети та написи
+Only person who added it (origin) can tell the meaning of it and have corresponding records.
 
-Трафарети - [https://www.thingiverse.com/thing:5396158](https://www.thingiverse.com/thing:5396158)
+If serial number and description was sent to us, it can be found on the [serial numbers page](/read/serials) with all the additional information. Otherwise, try to contact [origin](/read/sources) (if this information available, of course).
 
 
 
