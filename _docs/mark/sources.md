@@ -7,4 +7,6 @@ order: 1
 #### **Коди джерел** \| **Origin's codes** \| **Коды источников**
 
 
-**SOT** - Sotnyk Dmytro, sotnykdv@gmail.com
+| **Code**| **Info** |
+|**SOT** | Sotnyk Dmytro, Ukraine and United States <BR/>sotnykdv@gmail.com |
+
