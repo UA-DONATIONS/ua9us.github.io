@@ -26,7 +26,7 @@ order: 2
 > 
 > If you found such item on sale or in posession or in use of a person, who is not in active duty of Military Forces of Ukraine or found it outside of Ukraine - please contact your local police department immediately and contact us by mail to [report@ua9.us](mailto:report@ua9.us)
 
-If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/read/sources/) (e.g. _SOT_) or [complete serial number](/read/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
+If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 

@@ -55,9 +55,9 @@ For example, all my helmets for Military Forces of Ukraine will be marked as
 >SOT
 
 
-All known to me codes with contact information are [here](/read/sources) and **SOT** is one of them.
+All known to me codes with contact information are [here](/mark/sources) and **SOT** is one of them.
 
-**If you want to add your own code to this [list](/read/sources) - send me email to [code@ua9.us](mailto:code@ua9.us)** with a code and contact information.
+**If you want to add your own code to this [list](/mark/sources) - send me email to [code@ua9.us](mailto:code@ua9.us)** with a code and contact information.
 
 ⚠️ Even if you don't want to disclose your information, send me email, so I'll mark origin code as in use.
 
@@ -90,7 +90,7 @@ I'd **recommend** to use alphabet, numbers and hyphen only.
 
 You should keep records of your serials and shipments, if you want to be able to track this item.
 
-Also you can send me your serial numbers with description to be added to [serials page](/read/serials). Send me an email to **[code@ua9.us](mailto:code@ua9.us)**.
+Also you can send me your serial numbers with description to be added to [serials page](/mark/serials). Send me an email to **[code@ua9.us](mailto:code@ua9.us)**.
 
 
 ## Stencils and tools

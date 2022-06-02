@@ -30,7 +30,7 @@ order: 3
 >
 > Use by Military Forces of Ukraine is legal, but please contact us to help us to understand any issues with aid distribution.
 
-If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/read/sources/) (e.g. _SOT_) or [complete serial number](/read/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
+If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 

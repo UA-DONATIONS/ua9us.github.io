@@ -44,7 +44,7 @@ _As usually, the best way to understand how to read markings is to read [how to 
 
 Manufacturers or suppliers may add information about them to this site. Or may not.
 
-Here is all **known to me** [codes of origin](/read/sources) with the contact information. So, there is no any guarantee that I know an origin, if it was not provided to me.
+Here is all **known to me** [codes of origin](/mark/sources) with the contact information. So, there is no any guarantee that I know an origin, if it was not provided to me.
 
 ## Serial number
 
@@ -52,7 +52,7 @@ Serial number - it is any identifier which is added to a code of origin after hy
 
 Only person who added it (origin) can tell the meaning of it and have corresponding records.
 
-If serial number and description was sent to us, it can be found on the [serial numbers page](/read/serials) with all the additional information. Otherwise, try to contact [origin](/read/sources) (if this information available, of course).
+If serial number and description was sent to us, it can be found on the [serial numbers page](/mark/serials) with all the additional information. Otherwise, try to contact [origin](/mark/sources) (if this information available, of course).
 
 
 
