@@ -11,7 +11,8 @@ order: 2
 
 
 |SOT-B1|May 30, 2022|Backpacks, Batch 1, 55L, Molle, x6|
-|SOT-H1M**[1..4]**|Jun 1, 2022|Tactical helmet IIIA, Green, Tactical Rails, Medium|
-|SOT-H1L**[1..4]**|Jun 1, 2022|Tactical helmet IIIA, Green, Ractical Rails, Large|
+|SOT-H1L**[1,2]**|Jun 1, 2022|Tactical helmet IIIA, Green, Ractical Rails, Large|
+|YNK-H1M**[1..4]**|Jun 1, 2022|Tactical helmet IIIA, Green, Tactical Rails, Medium|
+|YNK-H1L**[1..4]**|Jun 1, 2022|Tactical helmet IIIA, Green, Ractical Rails, Large|
 
 

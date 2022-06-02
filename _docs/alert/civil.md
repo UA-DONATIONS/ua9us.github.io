@@ -16,6 +16,8 @@ order: 3
 >
 > Використання Збройними Силами України є легальним, але зв'яжіться з нами, щоб допомогти нам зрозуміти проблеми у розподіленні допомоги.
 
+Якщо річ має додаткову відмітку, зазвичай близько до відмітки **CIV9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете перевірити джерело походження you can verify origin та/або віслікувати річ.
+
 [Як маркувати безкоштовну допомогу для України](/mark/mark) \| [Як читати таке маркування](/mark/read)
 
 Інші відмітки: **[UA9.US](/alert/generic)** \| **[MIL9.US](/alert/military)** \| **[CIV9.US](/alert/civil)**
@@ -30,7 +32,7 @@ order: 3
 >
 > Use by Military Forces of Ukraine is legal, but please contact us to help us to understand any issues with aid distribution.
 
-If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
+If item have an additional mark, which is usually close to **CIV9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 
