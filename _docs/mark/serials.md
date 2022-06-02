@@ -6,9 +6,9 @@ order: 2
 
 #### **Серійні номери** \| **Serials** \| **Серийные номера**
 
-> TEST**[1..5]** => TEST1, TEST2, TEST3
+> SOT-H1L**[1,2]** => SOT-H1L1, SOT-H1L2
 
-> TEST**[X,Y,Z]** => TESTX, TESTY, TESTZ
+> YNK-H1M**[1..4]** => YNK-H1M1,YNK-H1M2,YNK-H1M3,YNK-H1M4
 
 ## UA9.US
 
