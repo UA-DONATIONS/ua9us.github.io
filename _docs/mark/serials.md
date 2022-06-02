@@ -7,6 +7,7 @@ order: 2
 #### **Серійні номери** \| **Serials** \| **Серийные номера**
 
 > TEST**[1..5]** => TEST1, TEST2, TEST3
+
 > TEST**[X,Y,Z]** => TESTX, TESTY, TESTZ
 
 
