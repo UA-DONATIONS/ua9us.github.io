@@ -16,7 +16,7 @@ order: 2
 
 Якщо річ має додаткову відмітку, зазвичай близько до відмітки **MIL9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете [перевірити джерело походження]((/mark/sources/)) та/або віслікувати річ.
 
-**MIL9.US** - [це публічна позначка, яка може використовуватися без обмежень](/about).
+**MIL9.US** - [це публічна позначка, яка може використовуватися без обмежень](/info/about).
 
 [Як маркувати безкоштовну допомогу для України](/mark/mark) \| [Як читати таке маркування](/mark/read)
 
@@ -32,7 +32,7 @@ order: 2
 
 If item have an additional mark, which is usually close to **MIL9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can [verify origin]((/mark/sources/)) or/and item's track.
 
-**MIL9.US** - [is the public label, which can be used with no limitations](/about).
+**MIL9.US** - [is the public label, which can be used with no limitations](/info/about).
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 
@@ -48,7 +48,7 @@ Other marks: **[UA9.US](/alert/generic)** \| **[MIL9.US](/alert/military)** \| *
 
 Если вещь имеет дополнительную отметку, обычно возле отметки **MIL9.US**, такую как [код источника](/mark/sources/) (например _SOT_) или [полный серийный номер](/mark/serials) (например SOT-A123), Вы можете [проверить источник]((/mark/sources/)) и/или отследить вещь.
 
-**MIL9.US** - [это публичная отметка, которая может быть использована без ограничений](/about).
+**MIL9.US** - [это публичная отметка, которая может быть использована без ограничений](/info/about).
 
 [Как маркировать бесплатную помощь для Украины](/mark/mark_ru) \| [Как читать такую маркировку](/mark/read_ru)
 
