@@ -7,7 +7,7 @@ order: 99
 
 <a name="UA"></a>
 
-###️ Що означають ці сайти
+###️Що означають ці сайти
 
 Кожна річ, яка постачається до України як допомога, має [мати відповідну відмітку](/mark/mark), щоб запобігти розкраданню та продажу.
 
@@ -26,7 +26,7 @@ order: 99
 
 <a name="EN"></a>
 
-###️ What is the meaning of these sites
+###️What is the meaning of these sites
 
 Each item which is sent to Ukraine [must be marked](/mark/mark_en), to prevent stealing and selling.
 
@@ -42,7 +42,8 @@ If some item was marked with one of such labels, this means nothing more than sa
 **Domains and site will be transferred to Ukraine's officials with the first opportunity.**
 
 <a name="RU"></a>
-###️ Что значат эти сайты
+
+###️Что значат эти сайты
 
 Каждая вещь, которая поставляется в Украину, как помощь, [должна иметь отметку](/mark/mark_ru), которая предотвратит хищение и продажу
 
