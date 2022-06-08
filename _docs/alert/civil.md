@@ -16,7 +16,9 @@ order: 3
 >
 > Використання Збройними Силами України є легальним, але зв'яжіться з нами, щоб допомогти нам зрозуміти проблеми у розподіленні допомоги.
 
-Якщо річ має додаткову відмітку, зазвичай близько до відмітки **CIV9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете перевірити джерело походження та/або віслікувати річ.
+Якщо річ має додаткову відмітку, зазвичай близько до відмітки **CIV9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете [перевірити джерело походження]((/mark/sources/)) та/або віслікувати річ.
+
+**CIV9.US** - [це публічна позначка, яка може використовуватися без обмежень](/about).
 
 [Як маркувати безкоштовну допомогу для України](/mark/mark) \| [Як читати таке маркування](/mark/read)
 
@@ -32,7 +34,9 @@ order: 3
 >
 > Use by Military Forces of Ukraine is legal, but please contact us to help us to understand any issues with aid distribution.
 
-If item have an additional mark, which is usually close to **CIV9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
+If item have an additional mark, which is usually close to **CIV9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can [verify origin]((/mark/sources/)) or/and item's track.
+
+**CIV9.US** - [is the public label, which can be used with no limitations](/about).
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 
@@ -48,8 +52,9 @@ Other marks: **[UA9.US](/alert/generic)** \| **[MIL9.US](/alert/military)** \| *
 >
 > Использование Вооруженными Силами Украины является законным, но свяжитесь с нами, что бы помочь нам понять проблемы в распределении помощи.
 
-Если вещь имеет дополнительную отметку, обычно возле отметки **CIV9.US**, такую как [код источника](/mark/sources/) (например _SOT_) или [полный серийный номер](/mark/serials) (например SOT-A123), Вы можете проверить источник и/или отследить вещь.
+Если вещь имеет дополнительную отметку, обычно возле отметки **CIV9.US**, такую как [код источника](/mark/sources/) (например _SOT_) или [полный серийный номер](/mark/serials) (например SOT-A123), Вы можете [проверить источник]((/mark/sources/)) и/или отследить вещь.
 
+**CIV9.US** - [это публичная отметка, которая может быть использована без ограничений](/about).
 
 [Как маркировать бесплатную помощь для Украины](/mark/mark_ru) \| [Как читать такую маркировку](/mark/read_ru)
 

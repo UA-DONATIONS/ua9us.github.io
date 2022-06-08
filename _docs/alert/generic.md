@@ -14,7 +14,9 @@ order: 1
 > 
 > Якщо Ви знайшли її у продажу або отримали її будь яким іншим шляхом, ніж **безкоштовна допомога**, або знайшли її у використанні за межами України - негайно повідомте до поліції та зв'яжіться з нами, відправивши листа до [report@ua9.us](mailto:report@ua9.us)
 
-Якщо річ має додаткову відмітку, зазвичай близько до відмітки **UA9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете перевірити джерело походження та/або віслікувати річ.
+Якщо річ має додаткову відмітку, зазвичай близько до відмітки **UA9.US**, такий як [код джерела](/mark/sources/) (наприклад _SOT_) або [повний серійний номер](/mark/serials) (наприклад SOT-A123), Ви можете [перевірити джерело походження]((/mark/sources/)) та/або віслікувати річ.
+
+**UA9.US** - [це публічна позначка, яка може використовуватися без обмежень](/about).
 
 [Як маркувати безкоштовну допомогу для України](/mark/mark) \| [Як читати таке маркування](/mark/read)
 
@@ -28,7 +30,9 @@ order: 1
 > 
 > If you found such item on sale or received it in any other way than **free aid** or found it in use outside of Ukraine - please contact your local police department immediately and contact us by mail to [report@ua9.us](mailto:report@ua9.us)
 
-If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can verify origin or/and item's track.
+If item have an additional mark, which is usually close to **UA9.US** label, like [origin code](/mark/sources/) (e.g. _SOT_) or [complete serial number](/mark/serials) (e.g. SOT-A123), you can [verify origin]((/mark/sources/)) or/and item's track.
+
+**UA9.US** - [is the public label, which can be used with no limitations](/about).
 
 [How to mark free aid to Ukraine](/mark/mark_en) \| [How to read such markings](/mark/read_en)
 
@@ -42,8 +46,9 @@ Other marks: **[UA9.US](/alert/generic)** \| **[MIL9.US](/alert/military)** \| *
 > 
 > Если Вы нашли ее в продаже или получили ее любым путем, отличным от **бесплатной помощи**, или нашли ее в использовании за пределами Украины - немедленно поставьте в известность полицию и свяжитесь с нами, отправив нам письмо на [report@ua9.us](mailto:report@ua9.us)
 
-Если вещь имеет дополнительную отметку, обычно возле отметки **UA9.US**, такую как [код источника](/mark/sources/) (например _SOT_) или [полный серийный номер](/mark/serials) (например SOT-A123), Вы можете проверить источник и/или отследить вещь.
+Если вещь имеет дополнительную отметку, обычно возле отметки **UA9.US**, такую как [код источника](/mark/sources/) (например _SOT_) или [полный серийный номер](/mark/serials) (например SOT-A123), Вы можете [проверить источник]((/mark/sources/)) и/или отследить вещь.
 
+**UA9.US** - [это публичная отметка, которая может быть использована без ограничений](/about).
 
 [Как маркировать бесплатную помощь для Украины](/mark/mark_ru) \| [Как читать такую маркировку](/mark/read_ru)
 
