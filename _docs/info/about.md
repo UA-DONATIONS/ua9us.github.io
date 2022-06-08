@@ -1,6 +1,5 @@
 ---
 title: About | Сайт
-category: 
 order: 99
 ---
 
