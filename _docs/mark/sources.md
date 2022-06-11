@@ -14,7 +14,7 @@ order: 1
 
 
 | **Code**| **Info** |
-|**F98** | FAMILY98 non-profit organization, Ukraine <BR/> Roman Tsymbalyuk, head <BR/> [https://t.me/helpzsutrokharkiv](https://t.me/helpzsutrokharkiv) <BR/> info@ua9.us|
+|**F98** | FAMILY98 non-profit organization, Ukraine <BR/> Andrii Tsymbal, head <BR/> [https://t.me/helpzsutrokharkiv](https://t.me/helpzsutrokharkiv) <BR/> zver050590@gmail.com|
 |**SOT** | Sotnyk Dmytro, Ukraine and United States <BR/>sotnykdv@gmail.com |
 |**YNK** | Nick Y, United States <BR/>info@ua9.us |
 
